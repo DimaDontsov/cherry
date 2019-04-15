@@ -10,6 +10,7 @@ int main()
 {
 	int a, b;
 	
+	cout << "Hello, user" << endl;
 	cin >> a >> b;
 	
 	return 0;
