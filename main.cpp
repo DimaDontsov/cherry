@@ -14,6 +14,7 @@ int main()
 	cin >> a >> b;
 	
 	cout << a+b;
+	cout << "Bye-bye, user" << endl;
 	
 	return 0;
 }
