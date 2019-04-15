@@ -12,6 +12,8 @@ int main()
 
 int absMax(int a, int b)
 {
+	int abs_a = 0;
+	int abs_b = 0;
 
 	return 0;
 }
