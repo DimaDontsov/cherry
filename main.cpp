@@ -9,3 +9,9 @@ int main()
 	
 	return 0;
 }
+
+int absMax(int a, int b)
+{
+
+	return 0;
+}
