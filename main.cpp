@@ -12,8 +12,8 @@ int main()
 
 int absMax(int a, int b)
 {
-	int abs_a = 0;
-	int abs_b = 0;
+	int abs_a = a<0 ? a*(-1) : a;
+	int abs_b = b<0 ? b*(-1) : b;
 
 	return 0;
 }
