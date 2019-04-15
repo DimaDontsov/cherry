@@ -13,5 +13,7 @@ int main()
 	cout << "Hello, user" << endl;
 	cin >> a >> b;
 	
+	cout << a+b;
+	
 	return 0;
 }
