@@ -14,6 +14,9 @@ int absMax(int a, int b)
 {
 	int abs_a = a<0 ? a*(-1) : a;
 	int abs_b = b<0 ? b*(-1) : b;
+	
+	if(abs_a<abs_b) ;
+	if(abs_a>abs_b) ;
 
-	return 0;
+	return a;
 }
